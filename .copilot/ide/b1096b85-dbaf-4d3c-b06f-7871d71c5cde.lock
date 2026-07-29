@@ -1,0 +1,14 @@
+{
+  "socketPath": "/var/folders/49/mbv06ys11h543gnv64f7x7780000gn/T/mcp-j5CYX9/mcp.sock",
+  "scheme": "unix",
+  "headers": {
+    "Authorization": "Nonce 68f7e1ad-da01-4f38-868c-0d3b534af6c4"
+  },
+  "pid": 89117,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1785311210165,
+  "workspaceFolders": [
+    "/Users/aryanverma/OOPS_2nd"
+  ],
+  "isTrusted": true
+}
